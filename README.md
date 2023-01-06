@@ -1,5 +1,5 @@
-# What's The Weather
-
+## Medical Weather Web Application
+## Siddhika Rai
 A Weather App made for all your travel needs.
 
 #How to run?
